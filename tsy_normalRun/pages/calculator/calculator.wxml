@@ -1,0 +1,10 @@
+<view>
+    <view class="content">
+        <input class="text1" bindinput="bindKeyInput" >{{num1}}</input>
+        <text class="add" >+</text>
+        <input class="text2" bindinput="bindKeyInput2">{{num2}}</input>
+        <text class="equal">=</text>
+        <text class="result"  >{{result}}</text>
+    </view>
+    <button type="default" bindtap="calculatorAction" bindinput="num1"> 计算 </button>
+</view>

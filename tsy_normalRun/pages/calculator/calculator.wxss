@@ -1,0 +1,47 @@
+
+.content {
+    margin-top: 100rpx;
+    height: 100rpx;
+    background-color: lightgrey;
+}
+.text1{
+    float:left;
+    margin-left: 40rpx;
+    margin-top: 0rpx;
+    width: 100rpx;
+    background-color: deepskyblue;
+    text-align: center;
+}
+
+.text2{
+    float:left;
+    margin-left: 10rpx;
+    margin-top: 0rpx;
+    width: 100rpx;
+    background-color: deepskyblue;
+    text-align: center;
+}
+
+.add{
+    float:left;
+    padding: 10rpx;
+    width: 20rpx;
+    height: 20rpx;
+}
+
+.equal{
+    float: left;
+    padding: 10rpx;
+    width: 20rpx;
+    height: 20rpx;
+}
+
+.result{
+    float:left;
+    margin-left: 10rpx;
+    margin-top: 0rpx;
+    width: 100rpx;
+    height: 50rpx;
+    background-color: red;
+    text-align: center;
+}
